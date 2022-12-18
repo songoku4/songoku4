@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=songoku4&label=Profile%20views&color=0e75b6&style=flat" alt="songoku4" /> </p>
 
-- 🔭 I’m currently working on **Disease Classification Using Deep Learning**
+- 🔭 I’m currently working on **Front End projects**
 
-- 🌱 I’m currently learning **PyTorch, Monai**
+- 🌱 I’m currently learning **React, Web3**
 
 - 💬 Ask me about **Chess :D**
 
