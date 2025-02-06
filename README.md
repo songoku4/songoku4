@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aaditya Sharma</h1>
-<h3 align="center">Aspiring Data Scientist from India</h3>
+<h3 align="center">DevOps Engineer AL/MLOPS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=songoku4&label=Profile%20views&color=0e75b6&style=flat" alt="songoku4" /> </p>
 
-- 🔭 I’m currently working on **Front End projects**
+- 🔭 I’m currently working on **AWS Solutions Architect Professional Certification**
 
-- 🌱 I’m currently learning **React, Web3**
+- 🌱 I’m currently learning **AWS, K8s**
 
-- 💬 Ask me about **Chess :D**
+- 💬 Ask me about **Chess**
 
 - 📫 How to reach me **aaditya4aug@gmail.com**
 
-- ⚡ Fun fact **2000+ rating on Lichess**
+- ⚡ Fun fact **2100+ rating on Lichess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
