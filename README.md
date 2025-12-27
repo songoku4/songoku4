@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aaditya4aug@gmail.com**
 
-- ⚡ Fun fact **2100+ rating on Lichess**
+- ⚡ Fun fact **2200+ rating on Lichess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
